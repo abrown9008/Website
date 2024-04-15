@@ -10,8 +10,6 @@ format:
       banner-header-class: "home"
 ---
 
-I'm an assistant professor of statistics in the [School of Data Science and Analytics](https://www.kennesaw.edu/ccse/academics/data-science-analytics/) at [Kennesaw State University](https://www.kennesaw.edu). I received a PhD in Applied Statistics and Research Methods from the University of Northern Colorado in 2019.
+I'm an assistant professor of statistics in the [School of Data Science and Analytics](https://www.kennesaw.edu/ccse/academics/data-science-analytics/) at [Kennesaw State University](https://www.kennesaw.edu). I received a PhD in Applied Statistics and Research Methods from the University of Northern Colorado in 2019.  
 
-\vskip 0.15 in
-
-I have research interests broadly in \underline{process control} and \underline{improvement} in the areas of education and public health.
+I have research interests broadly in process control and improvement in the areas of education and public health.
