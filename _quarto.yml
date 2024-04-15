@@ -1,0 +1,22 @@
+project:
+  type: website
+  
+freeze: true
+
+website:
+  title: "Austin R. Brown, Ph.D."
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
