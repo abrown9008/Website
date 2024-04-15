@@ -2,38 +2,12 @@
 title: "Howdy, Folks!"
 pagetitle: "Austin R. Brown, Ph.D."
 title-block-banner: "#ffc629"
+fontcolor: "#231f20"
+main-photo: AB_Pic.jpg
 format:
   html:
     quarto-template-params:
       banner-header-class: "home"
 ---
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-sm-4}
-
-```{=html}
-<div class="grid" style="--bs-columns: 5; row-gap: 0;">
-  <div class="g-col-1 g-col-sm-0"></div>
-  <div class="g-col-3 g-col-sm-5">
-    <picture>
-      <source media="(max-width: 576px)" srcset="{{< meta main-photo-square >}}">
-      <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
-      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
-    </picture>
-  </div>
-  <div class="g-col-1 g-col-sm-0"></div>
-</div>
-```
-
-:::
-
-::: {.g-col-12 .g-col-sm-8}
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I'm an assistant professor of statistics in the [School of Data Science and Analytics](https://www.kennesaw.edu/ccse/academics/data-science-analytics/) at [Kennesaw State University](https://www.kennesaw.edu). I received a PhD in Applied Statistics and Research Methods from the University of Northern Colorado in 2019.
