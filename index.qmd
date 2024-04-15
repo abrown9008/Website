@@ -12,4 +12,6 @@ format:
 
 I'm an assistant professor of statistics in the [School of Data Science and Analytics](https://www.kennesaw.edu/ccse/academics/data-science-analytics/) at [Kennesaw State University](https://www.kennesaw.edu). I received a PhD in Applied Statistics and Research Methods from the University of Northern Colorado in 2019.  
 
-I have research interests broadly in process control and improvement in the areas of education and public health.
+I have research interests broadly in process control and improvement in the areas of education and public health. Check out my [Google Scholar](https://scholar.google.com/citations?user=JRlYYM4AAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Austin-Brown-24) profiles for the most up-to-date list of my publications!
+
+I teach several courses for KSU, including Data Visualization, Biostatistics, Applied Regression Analysis, and R Programming. 
