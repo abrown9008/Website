@@ -1,14 +1,28 @@
 ---
 title: "Howdy, Folks!"
 pagetitle: "Austin R. Brown, Ph.D."
+main-photo: AB_Pic.jpg
+main-photo-square: AB_Pic.jpg
 title-block-banner: "#ffc629"
 fontcolor: "#231f20"
-main-photo: AB_Pic.jpg
+image: AB_Pic.jpg
 format:
   html:
     quarto-template-params:
       banner-header-class: "home"
 ---
+
+```{=html}
+<div class="grid" style="--bs-columns: 3; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-1">
+    <picture>
+      <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
+      <img class="img-fluid" src="{{< meta main-photo >}}">
+    </picture>
+  </div>
+  <div class="g-col-2 g-col-sm-3"></div>
+</div>
+```
 
 I'm an assistant professor of statistics in the [School of Data Science and Analytics](https://www.kennesaw.edu/ccse/academics/data-science-analytics/) at [Kennesaw State University](https://www.kennesaw.edu). I received a PhD in Applied Statistics and Research Methods from the University of Northern Colorado in 2019.  
 
