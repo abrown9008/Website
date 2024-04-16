@@ -1,0 +1,18 @@
+---
+title: "Kennesaw State Courses"
+listing:
+  - id: ay_24-25
+    contents: ay_24-25.yml
+    sort: "date desc"
+title-block-banner: "#ffc629"
+fontcolor: "#231f20"
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Academic year
+---
+
+## 2024–25
+
+:::{#ay_24-25}
+:::
