@@ -13,7 +13,7 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: teaching/courses.qmd
+      - href: teaching/index.qmd
         text: Teaching
         
     right:
